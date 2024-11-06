@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/admin/dashboard.html",
+        "permanent": true
+      }
+    ]
+  }
+  
